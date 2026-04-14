@@ -1,0 +1,3 @@
+from .system_prompt import LIFE_PHILOSOPHY_SYSTEM_PROMPT
+
+__all__ = ["LIFE_PHILOSOPHY_SYSTEM_PROMPT"]

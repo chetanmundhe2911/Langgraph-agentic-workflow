@@ -1,0 +1,5 @@
+# Streamlit UI Dependencies
+# These are additional dependencies for the Streamlit interface only
+# The core system doesn't require these
+
+streamlit>=1.37.0

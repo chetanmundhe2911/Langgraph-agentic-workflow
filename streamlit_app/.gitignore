@@ -1,0 +1,6 @@
+# Streamlit cache and session files
+.streamlit/
+__pycache__/
+*.pyc
+*.pyo
+*.md

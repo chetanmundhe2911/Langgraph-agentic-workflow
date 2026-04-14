@@ -1,0 +1,22 @@
+langchain
+langchain-openai
+langchain-google-genai
+langchain-community
+langchain-text-splitters
+langgraph
+pydantic
+python-dotenv
+openai
+pypdf
+pymongo
+pygraphviz
+faiss-cpu
+
+# Evaluation dependencies
+ragas
+datasets
+bert-score
+rouge-score
+nltk
+pandas
+numpy

@@ -1,0 +1,3 @@
+from .system_prompt import POLITICAL_ALIGNMENT_SYSTEM_PROMPT
+
+__all__ = ["POLITICAL_ALIGNMENT_SYSTEM_PROMPT"]
